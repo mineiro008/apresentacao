@@ -7,7 +7,7 @@ html, body {
 
 html {
   font-size: 10px;
-  background-color: #000000;
+  background-color: #f1f1f1;
 }
 
 body {
@@ -148,7 +148,7 @@ width:260px;
 height:23px;
 margin:0 auto;
 padding:5px 0 5px 5px;
-float:left; // posição do campo
+float:left; // posiï¿½ï¿½o do campo
 line-height:36px; // altura da linha
 }
 #btnBusca {
